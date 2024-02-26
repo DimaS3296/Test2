@@ -1,1 +1,2 @@
 latest commit on main branch - hallo
+Check git commit --amend
